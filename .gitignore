@@ -2,6 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+<<<<<<< HEAD
 /DBT/.vs/DBT/FileContentIndex/3318ca9d-4fe0-4b5f-8633-7a2b7441753e.vsidx
 /DBT/.vs/DBT/FileContentIndex/41991679-749e-4046-af85-f6079d2b9790.vsidx
 /DBT/.vs/DBT/FileContentIndex/b0b9d548-c94b-4c5f-9e36-897e6a654fe4.vsidx
+=======
+/DBT/.vs/DBT/FileContentIndex/858c3b1e-21ae-448b-b4d1-060529600203.vsidx
+>>>>>>> 7241e7469c91b7e2be12cd15058df414e7ac74c8
+/DBT/.vs/DBT/FileContentIndex/02261dc7-9c31-42d4-842d-e62d09a08a52.vsidx
