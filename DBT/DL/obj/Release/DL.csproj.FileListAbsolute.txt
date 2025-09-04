@@ -1,0 +1,9 @@
+D:\VSS\DBT\DBT\DL\bin\Release\DL.dll
+D:\VSS\DBT\DBT\DL\bin\Release\DL.pdb
+D:\VSS\DBT\DBT\DL\bin\Release\Model.dll
+D:\VSS\DBT\DBT\DL\bin\Release\Model.pdb
+D:\VSS\DBT\DBT\DL\obj\Release\DL.dll
+D:\VSS\DBT\DBT\DL\obj\Release\DL.pdb
+D:\VSS\DBT\DBT\DL\obj\Release\DL.csproj.AssemblyReference.cache
+D:\VSS\DBT\DBT\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+D:\VSS\DBT\DBT\DL\obj\Release\DL.csproj.Up2Date

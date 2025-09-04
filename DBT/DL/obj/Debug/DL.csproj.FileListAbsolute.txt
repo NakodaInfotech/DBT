@@ -1,0 +1,9 @@
+D:\VSS\DBT\DBT\DL\bin\Debug\DL.dll
+D:\VSS\DBT\DBT\DL\bin\Debug\DL.pdb
+D:\VSS\DBT\DBT\DL\bin\Debug\Model.dll
+D:\VSS\DBT\DBT\DL\bin\Debug\Model.pdb
+D:\VSS\DBT\DBT\DL\obj\Debug\DL.dll
+D:\VSS\DBT\DBT\DL\obj\Debug\DL.pdb
+D:\VSS\DBT\DBT\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+D:\VSS\DBT\DBT\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\VSS\DBT\DBT\DL\obj\Debug\DL.csproj.Up2Date

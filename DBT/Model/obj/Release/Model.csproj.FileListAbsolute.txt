@@ -1,0 +1,6 @@
+D:\VSS\DBT\DBT\Model\bin\Release\Model.dll
+D:\VSS\DBT\DBT\Model\bin\Release\Model.pdb
+D:\VSS\DBT\DBT\Model\obj\Release\Model.dll
+D:\VSS\DBT\DBT\Model\obj\Release\Model.pdb
+D:\VSS\DBT\DBT\Model\obj\Release\Model.csproj.AssemblyReference.cache
+D:\VSS\DBT\DBT\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
