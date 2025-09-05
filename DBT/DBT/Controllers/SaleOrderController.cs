@@ -22,7 +22,7 @@ namespace DBT.Controllers
         {
             try
             {
-                HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.NotFound, "ERROR");
+                HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.NotFound, "     ERROR");
                 UserData.SO_Status = "ERROR";
                 ds = objDL.SO_Save(UserData);
                 if ((ds != null) && (ds.Tables.Count > 0))

@@ -7,3 +7,12 @@ D:\VSS\DBT\DBT\DL\obj\Debug\DL.pdb
 D:\VSS\DBT\DBT\DL\obj\Debug\DL.csproj.AssemblyReference.cache
 D:\VSS\DBT\DBT\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
 D:\VSS\DBT\DBT\DL\obj\Debug\DL.csproj.Up2Date
+D:\GIT\DBT\DBT\DL\bin\Debug\DL.dll
+D:\GIT\DBT\DBT\DL\bin\Debug\DL.pdb
+D:\GIT\DBT\DBT\DL\bin\Debug\Model.dll
+D:\GIT\DBT\DBT\DL\bin\Debug\Model.pdb
+D:\GIT\DBT\DBT\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+D:\GIT\DBT\DBT\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\GIT\DBT\DBT\DL\obj\Debug\DL.csproj.Up2Date
+D:\GIT\DBT\DBT\DL\obj\Debug\DL.dll
+D:\GIT\DBT\DBT\DL\obj\Debug\DL.pdb

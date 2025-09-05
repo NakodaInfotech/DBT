@@ -4,3 +4,9 @@ D:\VSS\DBT\DBT\Model\obj\Debug\Model.dll
 D:\VSS\DBT\DBT\Model\obj\Debug\Model.pdb
 D:\VSS\DBT\DBT\Model\obj\Debug\Model.csproj.AssemblyReference.cache
 D:\VSS\DBT\DBT\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\GIT\DBT\DBT\Model\bin\Debug\Model.dll
+D:\GIT\DBT\DBT\Model\bin\Debug\Model.pdb
+D:\GIT\DBT\DBT\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\GIT\DBT\DBT\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\GIT\DBT\DBT\Model\obj\Debug\Model.dll
+D:\GIT\DBT\DBT\Model\obj\Debug\Model.pdb
